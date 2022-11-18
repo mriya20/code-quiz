@@ -6,8 +6,8 @@ You will see there HTML file, Javascript and CSS styled file.
 
 Hope this helps.
 
-
-
+Here is the deployment link:
+https://mriya20.github.io/code-quiz/
 
 Respectfully,
 Anastasia
